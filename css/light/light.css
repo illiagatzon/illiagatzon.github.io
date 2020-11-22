@@ -1,0 +1,236 @@
+body {
+	background: #ffffff;
+	color: #000;
+}
+
+/* Loader Settings */
+.loader-wrap {
+    background: white !important;
+}
+.pin:after {
+    color: rgb(4 4 4 / 75%);
+}
+
+/* Menu Settings */
+.main-header:before {
+    background: #f9f9f9;
+    opacity: 1;
+}
+.menu-button-text {
+    color: rgb(0, 0, 0);
+}
+.header-social li a , .footer-socilal li a, .order-wrap li a  {
+    color: rgb(109 103 103 / 73%);
+    border: 1px solid rgb(109 103 103 / 73%);
+}
+.hero-wrap {
+    background: #ffffff;
+}
+
+/* nav Settings */
+.nav-holder {
+    background: #ffffff;
+}
+.header-logo:before {
+    background: rgb(121 121 121 / 25%);
+}
+.nav-title span {
+    color: #000;
+}
+.sliding-menu a {
+    color: rgb(0, 0, 0);
+}
+.sliding-menu ul {
+    background: white;
+}
+.share-wrapper:before {
+    background: #ffffff;
+}
+.close-share span {
+    color: rgb(0 0 0 / 91%);
+}
+.close-share {
+    border: 1px solid rgb(0 0 0 / 52%);
+}
+.fa-times:before {
+    color: black;
+}
+.share-icon:after {
+    color: rgb(0 0 0 / 91%);
+}
+.share-title span {
+    color: #000;
+}
+
+/* Slider Settings */
+.overlay {
+    background: #fff;
+    opacity: 0.3;
+}
+.half-hero-wrap h1 {
+    color: rgb(0, 0, 0);
+}
+.half-hero-wrap h4 {
+    background: rgba(0, 0, 0, 0.21);
+    color: rgb(0, 0, 0);
+}
+.color-btn {
+    color: #fff;
+    border-color: transparent;
+}
+.hero-decor-numb span, .hero-decor-numb-tooltip {
+    color: rgb(0, 0, 0);
+}
+
+/* Slider Settings */
+.scroll-nav {
+    border-right: 1px solid rgba(0, 0, 0, 0.123);
+    background: #f9f9f9;
+}
+.scroll-nav-wrap {
+    background: #f9f9f9;
+}
+.scroll-down-wrap {
+    border-right: 1px solid rgba(0, 0, 0, 0.123);
+}
+.scroll-nav li a , .scroll-down-wrap span {
+    color: #000000;
+}
+.mousey {
+    border: 2px solid rgb(109 103 103 / 73%);
+}
+
+/* Slider Settings */
+.collage-image-title {
+    background: #f9f9f9;
+    color: rgb(0, 0, 0);
+}
+.collage-image:before {
+    background: #dd8108;
+}
+.dark-bg {
+    background: #cccccc;
+}
+section.dark-bg .section-title h2 {
+    color: rgb(0, 0, 0);
+}
+section.parallax-section .section-title p {
+    color: rgba(0, 0, 0, 0.897);
+}
+.inline-facts-wrap .num {
+    color: rgb(0, 0, 0);
+}
+.inline-facts-wrap h6 {
+    color: rgb(0 0 0);
+    background: rgba(51, 51, 51, 0.31);
+}
+
+.video-promo-text h3 , .fet_pr-carousel-title-item h3 {
+    color: rgba(0, 0, 0, 0.71);
+}
+.video-promo-text p , .fet_pr-carousel-title-item p {
+    color: #000;
+}
+
+.fet_pr-carousel-counter {
+    color: rgb(0 0 0 / 90%);
+}
+
+/* Footer Settings */
+.dark-bg2 {
+    background: #f9f9f9;
+}
+.order-wrap:before {
+    background: rgb(27 18 18 / 10%);
+}
+.order-wrap h3 {
+    color: #353333;
+}
+
+.main-footer {
+    background: #ffffff;
+}
+#twitts-container p.tweet , .footer-box p {
+    color: rgb(0 0 0 / 85%);
+}
+#twitts-container a {
+    color: #fa3a21;
+}
+#twitts-container .timePosted a {
+    color: rgb(0 0 0);
+}
+.footer-header  {
+    color: #000;
+}
+.footer-title span {
+    color: #000;
+}
+.trsp-btn {
+    border: 1px solid rgb(0 0 0 / 9%);
+    color: #000000f2;
+}
+#twitts-container ul li ,  .footer-header {
+    float: left;
+    border-bottom: 1px dotted rgb(0 0 0 / 15%);
+}
+.subcribe-form input.enteremail {
+    background: rgb(25 25 25 / 11%);
+    color: #000;
+}
+.subcribe-form .subscribe-button {
+    color: #000;
+}
+.footer-contacts li a {
+    color: #000;
+}
+.footer-contacts li span {
+    color: #353535;
+}
+.subfooter {
+    background: #f9f9f9;
+}
+.policy-box {
+    color: rgb(0 0 0 / 71%);
+}
+
+/* porfolio Settings */
+.single-page-decor {
+    background: #ffffff;
+}
+.fsp-filter .gallery-filters a , .fsp-filter .folio-counter , .fsp-filter .filter-title span , .fet_pr-carousel-box-text h3 a , .fet_pr-carousel-cat a {
+    color: #0f0f0f;
+}
+.scroll-nav li a:before, .fsp-filter .gallery-filters a:before , .fsp-filter .folio-counter div:first-child:before  {
+    background: rgb(23 22 22 / 51%);
+}
+.fsp-filter .folio-counter {
+    border-left: 1px solid rgb(0 0 0 / 45%);
+} 
+.fsp-filter .filter-title {
+    border-right: 1px solid rgb(0 0 0 / 45%);
+}
+.hd-box-wrap h2 a {
+    color: rgb(0 0 0 / 80%);
+}
+.hd-box-wrap p a {
+    color: rgb(0 0 0 / 71%);
+}
+.hd-box-wrap , .fet_pr-carousel-box-text{
+    background: #a5a5a5;
+}
+
+/* blog Settings */
+.blog-btn {
+    border: 1px solid rgb(0 0 0 / 11%);
+    color: #000;
+}
+.blog-btn-filter ul li a {
+    color: #000;
+}
+.blog-btn-filter ul {
+    background: #ececec;
+}
+.searh-inner input {
+    background: rgb(113 110 110 / 9%);
+    color: rgb(0 0 0 / 69%);
+}
